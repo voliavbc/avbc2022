@@ -208,4 +208,10 @@ label {
     margin: unset;
     border-radius: 10px;
   }
+
+  .colors span.active {
+    /* border: 2px solid darkred; */
+    scale: 1;
+    transition: 0.5s;
+  }
 }
