@@ -165,8 +165,8 @@ textarea {
 }
 .login h5 {
   position: absolute;
-  top: 1px;
-  right: 1px;
+  top: 2px;
+  right: 0;
   writing-mode: vertical-rl;
   color: #333;
 }
